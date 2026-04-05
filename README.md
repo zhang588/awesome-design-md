@@ -1,4 +1,7 @@
 <a href="https://github.com/VoltAgent/voltagent">
+
+> 📖 **中文指南**: [README.zh-CN.md](README.zh-CN.md)
+
      <img width="1500" height="801" alt="claude-skills" src="https://github.com/user-attachments/assets/d012a0d2-cec3-4630-ba5e-acc339dbe6cf" />
 </a>
 
